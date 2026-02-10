@@ -1,0 +1,26 @@
+:root {
+  --primary: #42b883;
+}
+
+/* LIGHT */
+[data-theme="light"] {
+  --bg: #f6f8fa;
+  --card-bg: #ffffff;
+  --border: #e5e7eb;
+  --text: #1f2933;
+}
+
+/* DARK */
+[data-theme="dark"] {
+  --bg: #111827;
+  --card-bg: #1f2937;
+  --border: #374151;
+  --text: #f9fafb;
+}
+
+body {
+  margin: 0;
+  font-family: Inter, Arial, sans-serif;
+  background: var(--bg);
+  color: var(--text);
+}
