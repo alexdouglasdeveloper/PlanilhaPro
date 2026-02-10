@@ -200,5 +200,5 @@ Projeto desenvolvido como demonstração técnica.
 
 Uso educacional e demonstrativo.
 
-(se preferir pode clicar no link abaixo, ele te direciona para o projeto)
+(se preferir pode clicar no link, ele te direciona para o projeto)
 https://planilha-pro.netlify.app/
