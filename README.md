@@ -199,3 +199,6 @@ Projeto desenvolvido como demonstração técnica.
 ## 📄 Licença
 
 Uso educacional e demonstrativo.
+
+(se preferir pode clicar no link abaixo, ele te direciona para o projeto)
+https://planilha-pro.netlify.app/
